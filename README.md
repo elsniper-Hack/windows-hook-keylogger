@@ -7,7 +7,7 @@ No usar en sistemas sin autorización explícita.
 
 ## Descripción
 Prueba de concepto de keylogger usando WH_KEYBOARD_LL
-hooks nativos de Windows para laboratorio de hacking ético.
+hooks nativos de Windows.
 
 ## Entorno de prueba
 Windows 10
